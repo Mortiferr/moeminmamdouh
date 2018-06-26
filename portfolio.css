@@ -1,0 +1,54 @@
+body{
+    background-color: #EEEEEE !important;  
+}
+
+.navbar-default{
+    background-color: #D91E18 !important;
+    border-style: none !important; 
+}
+
+.navbar-brand{
+    color: white !important; 
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: white !important; 
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #555;
+  background-color: #CF000F !important;
+}
+
+h1{
+    text-align: center;
+    font-size: 45px !important;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: bold !important;
+    padding-top: 50px;
+    padding-bottom: 20px; 
+    
+}
+
+.thumbnail{
+    border-style: none !important;
+}
+
+.testing{
+    float: center; 
+}
+
+.lmore{
+    text-align: center; 
+    padding-top: 35px; 
+    font-family: 'Raleway', sans-serif;
+    padding-bottom: 100px;
+}
+
+.btn-primary{
+    background-color: #D91E18 !important;
+    border-style: none !important; 
+    font-size: 15px !important;
+}

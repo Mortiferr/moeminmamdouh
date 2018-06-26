@@ -1,0 +1,64 @@
+body{
+    background: url(images/evgeni-evgeniev-710160-unsplash-min.png);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    height: 100%;
+
+}
+
+
+.centerel{
+    text-align: center; 
+    padding-top: 200px; 
+    color: white; 
+    font-family: 'Raleway', sans-serif;
+}
+
+.name{
+    font-size: 40px; 
+    letter-spacing: 25px; 
+    padding-bottom: 50px; 
+    
+}
+
+.fdesc{
+    font-size: 15px; 
+    height: 0px;
+}
+
+.sdesc{
+    font-size:15px;
+    height: 0px;
+}
+
+.lmore{
+    text-align: center; 
+    padding-top: 35px; 
+    font-family: 'Raleway', sans-serif; 
+}
+
+.btn-primary{
+    background-color: #D91E18 !important;
+    border-style: none !important; 
+}
+
+.navbar-default{
+    background-color: #D91E18 !important;
+    border-style: none !important; 
+}
+
+.navbar-brand{
+    color: white !important; 
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: white !important; 
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #555;
+  background-color: #CF000F !important;
