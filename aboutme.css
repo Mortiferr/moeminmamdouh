@@ -5,54 +5,34 @@ body{
     background-size: cover; 
     background-repeat: no-repeat; 
     height: 100%; 
+    font-family: 'Raleway', sans-serif !important;
     
-    
-}
-.leftside{
-    font-family: 'Open Sans', sans-serif;
-    color: white !important; 
-    text-align: center; 
-    padding: 350px; 
 }
 
 h1{
-    font-weight: 600 !important; 
-    color: white !important; 
-    
-}
-
-h2{
-    font-weight: 300 !important; 
-    color: white !important;
-
-    
+    font-weight: 700 !important; 
+    font-family: 'Raleway', sans-serif !important; 
 }
 
 h3{
-    font-size: 13px !important; 
-    margin-bottom: 20px !important; 
-
+    font-size: 10px !important; 
 }
 
-p{
-    font-weight: 300 !important; 
-
+h2{
+    height: 12px;
 }
-
-.mei{ 
-
+.container{
+    color: white; 
 }
 
 .row{
-    padding-left: 200px;
-    color: white; 
     padding-top: 250px;
-    
 }
+
 
 .navbar-default{
     background-color: #D91E18 !important;
-    border-style: none !important; 
+    border-style: none !important;  
 }
 
 .navbar-brand{
@@ -70,20 +50,13 @@ p{
   background-color: #CF000F !important;
 }
 
-@media only screen and (max-width: 992px){
-    .leftside{
-        padding: 300px; 
+@media only screen and (max-width: 1024px){
+    .container{    
+    text-align: center; 
     }
     
     
-}
-
-
-
-@media only screen and (max-width: 992px){
-    .leftside{
-        padding: 50px;
-        padding-top: 200px;
     }
-    
-}
+
+
+
