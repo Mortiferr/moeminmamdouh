@@ -1,0 +1,107 @@
+body{
+    background: url(images/jack-b-719290-unsplash.jpg);
+    background-position: center;
+    background-size: cover;;
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    font-family: 'Raleway', sans-serif !important; 
+}
+
+.navbar-default{
+    background-color: #D91E18 !important;
+    border-style: none !important; 
+}
+
+.navbar-brand{
+    color: white !important; 
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: white !important; 
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #555;
+  background-color: #CF000F !important;
+}
+
+.row{
+    margin-top: 150px; 
+}
+
+h1{
+    font-weight: 800 !important; 
+    text-align: center;  
+    color: white !important;
+}
+
+h2{
+    color: white !important; 
+    height: 14px;
+
+}
+
+hr{
+    border-color: white !important; 
+    width: 250px; 
+}
+
+p{
+    color: white !important; 
+    font-family: 'Niconne', cursive;
+    font-size: 20px;
+}
+
+h3{
+    color: white !important; 
+    font-size: 15px !important; 
+    
+}
+
+
+h4{
+    font-size: 15px !important;
+}
+
+h5{
+    color: white !important; 
+    font-size: 20px !important; 
+    margin-top: 50px !important; 
+}
+
+h6{
+    color: white !important; 
+    height: 5px;
+}
+
+.fb a{
+    color: white !important; 
+    text-decoration-line: underline; 
+}
+
+.be a{
+    color: white !important; 
+    text-decoration-line: underline; 
+}
+
+.github a{
+    color: white !important; 
+    text-decoration-line: underline; 
+}
+
+.linkedin a{
+    color: white !important; 
+    text-decoration-line: underline; 
+}
+
+.stackoverflow a{
+    color: white !important; 
+    text-decoration-line: underline; 
+}
+
+.email a{
+    color: white !important; 
+    text-decoration-line: underline; 
+}
